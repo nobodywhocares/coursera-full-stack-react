@@ -1,0 +1,10 @@
+node_modules
+dist
+nbproject
+/bootstrap4/Assignment1/nbproject/private/
+/bootstrap4/Assignment-1/nbproject/private/
+/bootstrap4/Assignment-2/nbproject/private/
+/bootstrap4/Assignment-3/nbproject/private/
+/bootstrap4/Assignment-4/nbproject/private/
+/react/assignment-1/nbproject/private/
+/react/assignment-2/nbproject/private/
